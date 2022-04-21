@@ -1,6 +1,8 @@
 # LeetCode
 
-+ 1_Two_sum: <font color=#0099ff size=3 face="黑体">[unordered_map]</font>
+
+
++ [unordered_map] 1_Two_sum
 + 7_Reverse_integer 
 + 8_String_to_Integer(atoi)
 + 9_Palindrome_Number
