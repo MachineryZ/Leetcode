@@ -16,6 +16,7 @@
 + **37_Sudoku_Solver**: [hard][backtracking][*]
 + **79_Word_Search**: [medium][depth_first_search][*]
 + **207_Course_Schedule**: [medium][topological_sort][queue][breadth_first_search][*]
++ **212_Word_Search_II**: [hard][backtracking][trie]
 + **315_Count_of_smaller_Numbers_of_self**
 + **1419_Minimum_number_of_Frogs_Croaking**
 + **1641_Count_Sorted_Vowel_strings**
