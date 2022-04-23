@@ -13,6 +13,7 @@
 + **9_Palindrome_Number**
 + **10_Regular_Expression_Matching**
 + **11_Container_With_Most_Water**: [medium][greedy]
++ **23_Merge_k_Sorted_List**: [hard][heap][*]
 + **37_Sudoku_Solver**: [hard][backtracking][*]
 + **70_Climbing_Staris**: [easy][dynamic_programming]
 + **79_Word_Search**: [medium][depth_first_search][*]
