@@ -20,6 +20,7 @@
 + **139_Word_Break**: [medium][dynamic_programming][*]
 + **140_Word_Break_II**: [hard][back_tracking][dynamic_programming][*]
 + **207_Course_Schedule**: [medium][topological_sort][queue][breadth_first_search][*]
++ **0208_Implement_Trie**: [medium][trie][*]
 + **212_Word_Search_II**: [hard][backtracking][trie]
 + **315_Count_of_smaller_Numbers_of_self**
 + **1419_Minimum_number_of_Frogs_Croaking**
