@@ -2,26 +2,29 @@
 
 
 
-+ **1_Two_sum**: [easy][unordered_map]
-+ **2_Add_two_Number**: [medium][recursion][linked_list][math]
-+ **3_Longest_Substring_Without_Repeating_Characters**: [medium][unordered_map][sliding_windows]
-+ **4_Median_of_Two_Sorted_Arrays**: [hard][binary_search]
-+ **5_Longest_Palindromic_Substring**: [medium][dynamic_programming]
-+ **6_Zigzag_Conversion**: [medium][math]
-+ **7_Reverse_integer** 
-+ **8_String_to_Integer(atoi)**
-+ **9_Palindrome_Number**
-+ **10_Regular_Expression_Matching**
-+ **11_Container_With_Most_Water**: [medium][greedy]
-+ **23_Merge_k_Sorted_List**: [hard][heap][*]
-+ **37_Sudoku_Solver**: [hard][backtracking][*]
-+ **70_Climbing_Staris**: [easy][dynamic_programming]
-+ **79_Word_Search**: [medium][depth_first_search][*]
-+ **139_Word_Break**: [medium][dynamic_programming][*]
-+ **140_Word_Break_II**: [hard][back_tracking][dynamic_programming][*]
-+ **207_Course_Schedule**: [medium][topological_sort][queue][breadth_first_search][*]
-+ **0208_Implement_Trie**: [medium][trie][*]
-+ **212_Word_Search_II**: [hard][backtracking][trie]
-+ **315_Count_of_smaller_Numbers_of_self**
-+ **1419_Minimum_number_of_Frogs_Croaking**
-+ **1641_Count_Sorted_Vowel_strings**
++ **1. Two sum**: [easy][unordered_map]
++ **2. Add two Number**: [medium][recursion][linked_list][math]
++ **3. Longest Substring Without Repeating Characters**: [medium][unordered_map][sliding_windows]
++ **4. Median of Two Sorted Arrays**: [hard][binary_search]
++ **5. Longest Palindromic Substring**: [medium][dynamic_programming]
++ **6. Zigzag Conversion**: [medium][math]
++ **7. Reverse integer** 
++ **8. String to Integer(atoi)**
++ **9. Palindrome Number**
++ **10. Regular Expression Matching**
++ **11. Container With Most Water**: [medium][greedy]
++ **23. Merge k Sorted List**: [hard][heap][*]
++ **37. Sudoku Solver**: [hard][backtracking][*]
++ **70. Climbing Stairs**: [easy][dynamic_programming]
++ **79. Word Search**: [medium][depth_first_search][*]
++ **104. Maximum Depth of Binary Tree**: [easy][depth_first_search]
++ **108. Convert Sorted Array to Binary Search Tree**: [easy][depth_first_search]
++ **0127. Word Ladder**: [hard][breadth_first_search]
++ **139. Word Break**: [medium][dynamic_programming][*]
++ **140. Word Break II**: [hard][back_tracking][dynamic_programming][*]
++ **207. Course Schedule**: [medium][topological_sort][queue][breadth_first_search][*]
++ **0208. Implement Trie**: [medium][trie][*]
++ **212. Word Search II**: [hard][backtracking][trie]
++ **315. Count of smaller Numbers of self**
++ **1419. Minimum number of Frogs Croaking**
++ **1641. Count Sorted Vowel strings**
