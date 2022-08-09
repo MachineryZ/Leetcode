@@ -26,8 +26,11 @@
 + **200. Number of Islands**: [medium][depth_first_search]
 + **207. Course Schedule**: [medium][topological_sort][queue][breadth_first_search][*]
 + **210. Course Schedule II**: [medium][topological_sort][breadth_first_seach][*]
-+ **0208. Implement Trie**: [medium][trie][*]
++ **208. Implement Trie**: [medium][trie][*]
 + **212. Word Search II**: [hard][backtracking][trie]
++ **224. Basic Calculator**: [hard][stack]
++ **227. Basic Calculator II**: [hard][stack]
 + **315. Count of smaller Numbers of self**
++ **772. Basic Calculator III**: [medium][stack]
 + **1419. Minimum number of Frogs Croaking**
 + **1641. Count Sorted Vowel strings**
