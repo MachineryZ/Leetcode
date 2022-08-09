@@ -22,6 +22,7 @@
 + **127. Word Ladder**: [hard][breadth_first_search][*]
 + **139. Word Break**: [medium][dynamic_programming][*]
 + **140. Word Break II**: [hard][back_tracking][dynamic_programming][*]
++ **150. Evaluate Reverse Polish Notation**: [medium][stack]
 + **200. Number of Islands**: [medium][depth_first_search]
 + **207. Course Schedule**: [medium][topological_sort][queue][breadth_first_search][*]
 + **210. Course Schedule II**: [medium][topological_sort][breadth_first_seach][*]
