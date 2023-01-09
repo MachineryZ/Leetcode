@@ -32,5 +32,6 @@
 + **227. Basic Calculator II**: [hard][stack]
 + **315. Count of smaller Numbers of self**
 + **772. Basic Calculator III**: [medium][stack]
++ **877. Stone Game**: [medium][dynamic_programming]
 + **1419. Minimum number of Frogs Croaking**
 + **1641. Count Sorted Vowel strings**
