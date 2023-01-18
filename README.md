@@ -35,4 +35,5 @@
 + **877. Stone Game**: [medium][dynamic_programming]
 + **976. Largest Perimeter Triangle**: [easy][math]
 + **1419. Minimum number of Frogs Croaking**
++ **1525. Number of Good Ways to Split a Strig**: [medium][math]
 + **1641. Count Sorted Vowel strings**
