@@ -29,6 +29,7 @@
 + **208. Implement Trie**: [medium][trie][*]
 + **212. Word Search II**: [hard][backtracking][trie]
 + **224. Basic Calculator**: [hard][stack]
++ **226. Invert Binary Tree**: [easy][breadth_first_search]
 + **227. Basic Calculator II**: [hard][stack]
 + **315. Count of smaller Numbers of self**
 + **772. Basic Calculator III**: [medium][stack]
