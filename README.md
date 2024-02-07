@@ -37,6 +37,7 @@
 + **772. Basic Calculator III**: [medium][stack]
 + **877. Stone Game**: [medium][dynamic_programming]
 + **976. Largest Perimeter Triangle**: [easy][math]
++ **1268. Search Suggestions System**: [medium][trie]
 + **1316. Distinct Echo Substrings**: [hard][dynamic_programming]
 + **1419. Minimum number of Frogs Croaking**
 + **1525. Number of Good Ways to Split a Strig**: [medium][math]
