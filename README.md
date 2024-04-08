@@ -33,6 +33,7 @@
 + **224. Basic Calculator**: [hard][stack]
 + **226. Invert Binary Tree**: [easy][breadth_first_search]
 + **227. Basic Calculator II**: [hard][stack]
++ **491. Non-decreasing Subsequences**: [medium][backtrack]
 + **506. Relative Ranks**: [easy][rank]
 + **315. Count of smaller Numbers of self**
 + **772. Basic Calculator III**: [medium][stack]
