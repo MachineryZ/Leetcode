@@ -44,3 +44,4 @@
 + **1419. Minimum number of Frogs Croaking**
 + **1525. Number of Good Ways to Split a Strig**: [medium][math]
 + **1641. Count Sorted Vowel strings**
++ **2487. Remove Nodes From Linked List**: [medium][stack]
