@@ -35,6 +35,7 @@
 + **227. Basic Calculator II**: [hard][stack]
 + **491. Non-decreasing Subsequences**: [medium][backtrack]
 + **506. Relative Ranks**: [easy][rank]
++ **589. N-ary Tree Preorder Traversal**: [easy][depth_first_search]
 + **315. Count of smaller Numbers of self**
 + **772. Basic Calculator III**: [medium][stack]
 + **877. Stone Game**: [medium][dynamic_programming]
