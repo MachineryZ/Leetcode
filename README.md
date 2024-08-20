@@ -31,6 +31,7 @@
 + **208. Implement Trie**: [medium][trie][*]
 + **212. Word Search II**: [hard][backtracking][trie]
 + **217. Contains Duplicate**: [easy][set]
++ **220. Contains Duplicate III**: [hard][sliding_window]
 + **224. Basic Calculator**: [hard][stack]
 + **226. Invert Binary Tree**: [easy][breadth_first_search]
 + **227. Basic Calculator II**: [hard][stack]
