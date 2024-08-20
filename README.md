@@ -22,6 +22,7 @@
 + **127. Word Ladder**: [hard][breadth_first_search][*]
 + **139. Word Break**: [medium][dynamic_programming][*]
 + **140. Word Break II**: [hard][back_tracking][dynamic_programming][*]
++ **146. LRU Cache**: [medium][design]
 + **150. Evaluate Reverse Polish Notation**: [medium][stack]
 + **200. Number of Islands**: [medium][depth_first_search]
 + **206. Reverse Linked List**: [easy][list]
@@ -33,8 +34,10 @@
 + **224. Basic Calculator**: [hard][stack]
 + **226. Invert Binary Tree**: [easy][breadth_first_search]
 + **227. Basic Calculator II**: [hard][stack]
++ **460. LFU Cache**: [hard][design]
 + **491. Non-decreasing Subsequences**: [medium][backtrack]
 + **506. Relative Ranks**: [easy][rank]
++ **515. Find Largest Value in Each Tree Row**: [medium][tree]
 + **589. N-ary Tree Preorder Traversal**: [easy][depth_first_search]
 + **315. Count of smaller Numbers of self**
 + **772. Basic Calculator III**: [medium][stack]
@@ -46,3 +49,4 @@
 + **1525. Number of Good Ways to Split a Strig**: [medium][math]
 + **1641. Count Sorted Vowel strings**
 + **2487. Remove Nodes From Linked List**: [medium][stack]
++ **2781. Length of the Longest Valid Substring**: [hard][sliding_window]
