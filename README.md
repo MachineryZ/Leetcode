@@ -15,6 +15,7 @@
 + **11. Container With Most Water**: [medium][greedy]
 + **23. Merge k Sorted List**: [hard][heap][*]
 + **37. Sudoku Solver**: [hard][backtracking][*]
++ **50. Pow(x, n)**: [medium][math]
 + **70. Climbing Stairs**: [easy][dynamic_programming]
 + **79. Word Search**: [medium][depth_first_search][*]
 + **104. Maximum Depth of Binary Tree**: [easy][depth_first_search]
