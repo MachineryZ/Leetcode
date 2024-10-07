@@ -43,6 +43,7 @@
 + **589. N-ary Tree Preorder Traversal**: [easy][depth_first_search]
 + **315. Count of smaller Numbers of self**
 + **772. Basic Calculator III**: [medium][stack]
++ **829. Consecutive Numbers Sum**: [hard][citadel][math]
 + **877. Stone Game**: [medium][dynamic_programming]
 + **976. Largest Perimeter Triangle**: [easy][math]
 + **1268. Search Suggestions System**: [medium][trie]
