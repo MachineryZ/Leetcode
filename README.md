@@ -36,6 +36,7 @@
 + **224. Basic Calculator**: [hard][stack]
 + **226. Invert Binary Tree**: [easy][breadth_first_search]
 + **227. Basic Calculator II**: [hard][stack]
++ **307. Range Sum Query - Mutable**: [medium][segment_tree]
 + **460. LFU Cache**: [hard][design]
 + **491. Non-decreasing Subsequences**: [medium][backtrack]
 + **506. Relative Ranks**: [easy][rank]
@@ -54,3 +55,4 @@
 + **2487. Remove Nodes From Linked List**: [medium][stack]
 + **2781. Length of the Longest Valid Substring**: [hard][sliding_window]
 + **2034. Stock Price Fluctuation**: [median][system_design]
+
