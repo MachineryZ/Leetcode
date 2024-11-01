@@ -1,7 +1,10 @@
+#include <iostream>
+#include <vector>
+
 class TrieNode {
 public:
     bool isEnd;
-    vector<TrieNode*> next;
+    std::vector<TrieNode*> next;
 
     TrieNode() {
         isEnd = false;
@@ -37,4 +40,4 @@ public:
         }
         return true;
     }
-}
+};

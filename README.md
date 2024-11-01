@@ -16,6 +16,7 @@
 + **23. Merge k Sorted List**: [hard][heap][*]
 + **37. Sudoku Solver**: [hard][backtracking][*]
 + **50. Pow(x, n)**: [medium][math]
++ **62. Unique Paths** [easy][denamic_programming]
 + **70. Climbing Stairs**: [easy][dynamic_programming]
 + **79. Word Search**: [medium][depth_first_search][*]
 + **104. Maximum Depth of Binary Tree**: [easy][depth_first_search]
