@@ -15,6 +15,7 @@
 + **11. Container With Most Water**: [medium][greedy]
 + **23. Merge k Sorted List**: [hard][heap][*]
 + **37. Sudoku Solver**: [hard][backtracking][*]
++ **42. Trapping Rain Water**: [hard][stack][*]
 + **50. Pow(x, n)**: [medium][math]
 + **62. Unique Paths** [easy][denamic_programming]
 + **70. Climbing Stairs**: [easy][dynamic_programming]
@@ -56,4 +57,5 @@
 + **2487. Remove Nodes From Linked List**: [medium][stack]
 + **2781. Length of the Longest Valid Substring**: [hard][sliding_window]
 + **2034. Stock Price Fluctuation**: [median][system_design]
++ **3159. Find Occurrences of an Element in an Array**: [easy]
 
