@@ -39,6 +39,8 @@
 + **226. Invert Binary Tree**: [easy][breadth_first_search]
 + **227. Basic Calculator II**: [hard][stack]
 + **307. Range Sum Query - Mutable**: [medium][segment_tree]
++ **313: Super Ugly Number**: [medium][dynamic_programming] [*] [algorithm]
++ **413. Arithmetic Slices**: [medium][dynamic_programming]
 + **460. LFU Cache**: [hard][design]
 + **491. Non-decreasing Subsequences**: [medium][backtrack]
 + **506. Relative Ranks**: [easy][rank]
