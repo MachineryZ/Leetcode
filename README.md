@@ -56,6 +56,7 @@
 + **1419. Minimum number of Frogs Croaking**
 + **1525. Number of Good Ways to Split a Strig**: [medium][math]
 + **1641. Count Sorted Vowel strings**
++ **2304. Minimum Path Cost in a Grid**: [medium][dynamic_programming]
 + **2487. Remove Nodes From Linked List**: [medium][stack]
 + **2781. Length of the Longest Valid Substring**: [hard][sliding_window]
 + **2034. Stock Price Fluctuation**: [median][system_design]
