@@ -27,6 +27,7 @@
 + **140. Word Break II**: [hard][back_tracking][dynamic_programming][*]
 + **146. LRU Cache**: [medium][design]
 + **150. Evaluate Reverse Polish Notation**: [medium][stack]
++ **172. Factorial Trailing Zeroes**: [easy][math]
 + **200. Number of Islands**: [medium][depth_first_search]
 + **206. Reverse Linked List**: [easy][list]
 + **207. Course Schedule**: [medium][topological_sort][queue][breadth_first_search][*]
@@ -60,5 +61,6 @@
 + **2487. Remove Nodes From Linked List**: [medium][stack]
 + **2781. Length of the Longest Valid Substring**: [hard][sliding_window]
 + **2034. Stock Price Fluctuation**: [median][system_design]
++ **3115. Maximum Prime Difference**: [median][math]
 + **3159. Find Occurrences of an Element in an Array**: [easy]
 
